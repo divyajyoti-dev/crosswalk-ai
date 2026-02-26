@@ -1,0 +1,5 @@
+{
+  "name": "Risk Alert Dashboard",
+  "description": "A construction data reconciliation dashboard for ERP and Field log exports, featuring risk alerts and crosswalk mappings.",
+  "requestFramePermissions": []
+}
